@@ -8,7 +8,7 @@
 
 [**→ Download at yallavideo.app**](https://yallavideo.app)
 
-Windows · macOS · Linux · Free · Open Source
+Windows · macOS · Linux · Free
 
 </div>
 
