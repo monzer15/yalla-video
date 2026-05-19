@@ -53,8 +53,6 @@ Under the hood: `yt-dlp` and `ffmpeg`, kept up to date automatically in the back
 - **Website & downloads:** https://yallavideo.app
 - **All releases:** https://github.com/monzer15/yalla-video-releases/releases
 
-Also available on **Snap Store**, **AUR** (`yalla-video-bin`), **AppImageHub**, and (pending review) **Winget** and **Flathub**.
-
 ## License
 
 MIT — © Monzer Osman
